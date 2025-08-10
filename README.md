@@ -40,10 +40,10 @@ Una vez cargados, puedes manipular, limpiar o analizar los DataFrames según tus
 python
 Copiar
 Editar
-# Ver las primeras filas de tienda3
+Ver las primeras filas de tienda3
 print(tienda3.head())
 
-# Filtrar productos con precio mayor a 100
+Filtrar productos con precio mayor a 100
 productos_caros = tienda[tienda['precio'] > 100]
 🗂 Notas
 Asegúrate de que las URLs o rutas sean accesibles y que los archivos CSV tengan el formato correcto (separador, codificación).
